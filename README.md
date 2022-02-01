@@ -5,6 +5,7 @@ O objetivo principal foi melhorar meus conhecimentos com a manipulação de <a h
 
 <h3>Tela Principal</h3>
 Nesta tela basta colocar o username do seu git, que automaticamente o projeto irá pegar as informações publicas do seu git, para otimizar a pagina.</br>
+<img src="https://user-images.githubusercontent.com/62970346/151898343-e403e343-8f76-4467-9bd6-efef4911ff7a.png"></img>
 ![image](https://user-images.githubusercontent.com/62970346/151898343-e403e343-8f76-4467-9bd6-efef4911ff7a.png)
 <h3>Tela do Chat</h3>
 ![image](https://user-images.githubusercontent.com/62970346/151898508-ea215329-e233-41df-9159-53fa8a7066ea.png)
