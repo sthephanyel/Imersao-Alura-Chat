@@ -10,7 +10,7 @@ function Titulo(props){
         <Tag>{props.children}</Tag>
         <style jxc="true">{`
                 ${Tag}{
-                    color:${appConfig.theme.colors.neutrals['900']};
+                    color:${appConfig.theme.colors.neutrals['300']};
                     font-size:24px;
                     font-weight:600;
                 }
@@ -67,7 +67,7 @@ export default function PaginaInicial() {
               onSubmit={function(infosDoEvento){
                 infosDoEvento.preventDefault();
                 console.log('Alguem sbmeteu o form')
-                roteamento.push('/chat')
+                roteamento.push(`/chat?username=${username}`)
               }}
               styleSheet={{
                 display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
