@@ -4,7 +4,7 @@ import appConfig from '../../config.json';
 
 export function ButtonSendSticker(props) {
   const [isOpen, setOpenState] = React.useState('');
-
+ 
   return (
     <Box
       styleSheet={{
